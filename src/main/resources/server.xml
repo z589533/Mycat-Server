@@ -37,7 +37,7 @@
 		<property name="enableDistributedTransactions">false</property>
 	</system>
 	<user name="root">
-		<property name="password">lexin112358</property>
+		<property name="password">mycat</property>
 		<property name="schemas">TESTDB</property>
 	</user>
 

@@ -49,7 +49,7 @@ public final class MycatStartup {
                 System.out.println(SystemConfig.SYS_HOME + "  is not set.");
                 System.exit(-1);
             }
-            // init
+            // Knit
             MycatServer server = MycatServer.getInstance();
             server.beforeStart();
 
